@@ -12,4 +12,4 @@ HTML5, CSS, Vanilla JS
 
 # Website
 
-https://buigabor.github.io/HTML-video-player/
+https://buigabor.github.io/slide-in-scroll/
